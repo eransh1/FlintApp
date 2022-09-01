@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FlintApp/static/css/main.f30a8c89.css",
-    "main.js": "/FlintApp/static/js/main.1a2171a0.js",
+    "main.js": "/FlintApp/static/js/main.9edb7bda.js",
     "static/media/video.mp4": "/FlintApp/static/media/video.5d5629038e1f944e4aa2.mp4",
     "static/media/3.webp": "/FlintApp/static/media/3.f489019780af0a47724e.webp",
     "static/media/2.webp": "/FlintApp/static/media/2.b60ed0b13c9f5a2e748f.webp",
@@ -12,10 +12,10 @@
     "static/media/2.png": "/FlintApp/static/media/2.914b5e3e3c97dc14eb63.png",
     "index.html": "/FlintApp/index.html",
     "main.f30a8c89.css.map": "/FlintApp/static/css/main.f30a8c89.css.map",
-    "main.1a2171a0.js.map": "/FlintApp/static/js/main.1a2171a0.js.map"
+    "main.9edb7bda.js.map": "/FlintApp/static/js/main.9edb7bda.js.map"
   },
   "entrypoints": [
     "static/css/main.f30a8c89.css",
-    "static/js/main.1a2171a0.js"
+    "static/js/main.9edb7bda.js"
   ]
 }
