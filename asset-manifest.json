@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FlintApp/static/css/main.f30a8c89.css",
+    "main.js": "/FlintApp/static/js/main.1a2171a0.js",
+    "static/media/video.mp4": "/FlintApp/static/media/video.5d5629038e1f944e4aa2.mp4",
+    "static/media/3.webp": "/FlintApp/static/media/3.f489019780af0a47724e.webp",
+    "static/media/2.webp": "/FlintApp/static/media/2.b60ed0b13c9f5a2e748f.webp",
+    "static/media/4.webp": "/FlintApp/static/media/4.c59beac2f1d17ce117f3.webp",
+    "static/media/1.webp": "/FlintApp/static/media/1.4e3d751f5f0f8bd186f6.webp",
+    "static/media/devices.png": "/FlintApp/static/media/devices.738e7f03eb448ed1ccaa.png",
+    "static/media/1.png": "/FlintApp/static/media/1.514ca2b028327d31ad79.png",
+    "static/media/2.png": "/FlintApp/static/media/2.914b5e3e3c97dc14eb63.png",
+    "index.html": "/FlintApp/index.html",
+    "main.f30a8c89.css.map": "/FlintApp/static/css/main.f30a8c89.css.map",
+    "main.1a2171a0.js.map": "/FlintApp/static/js/main.1a2171a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30a8c89.css",
+    "static/js/main.1a2171a0.js"
+  ]
+}
