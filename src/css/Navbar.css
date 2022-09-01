@@ -1,0 +1,7 @@
+.img{
+    transform: rotate(-90deg);
+}
+.item:hover{
+color: white;
+opacity: 1;
+}

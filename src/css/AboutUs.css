@@ -1,0 +1,124 @@
+
+
+
+
+.columnn h1{
+    margin-top: 250px!important;
+    font-size: 66px!important;
+}
+.columnn p{
+    font-size: 24px!important;
+    margin-bottom: 300px!important;
+}
+#section2{
+display: flex;
+position: relative;
+-webkit-box-pack: center;
+justify-content: center;
+-webkit-box-align: center;
+align-items: center;
+flex-direction: column;
+margin-bottom: 10rem;
+}
+
+video{
+    object-fit: contain;
+}
+source{
+    outline: rgb(1, 36, 38) solid 1px !important;
+}
+
+#section .row{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+
+}
+
+.message{
+    color: white;
+    font-weight: 400;
+    opacity: .67;
+    font-size: 1.3rem;
+
+}
+
+.mic{
+    margin-left: auto;
+    cursor: pointer;
+    display: flex;
+    flex-direction:row;
+    width: 12px;
+}
+.mic svg{
+    
+    vertical-align: middle;
+}
+
+.textt{
+    font-size: 55px;
+    line-height: 65px;
+}
+.pp{
+    font-weight: 400;
+    opacity: 0.7;
+    font-size: 15px;
+    font-weight: 400;
+    opacity: 0.7;
+    padding-top: 20px;
+    line-height: 22px;
+}
+
+
+
+
+
+@media(min-width: 768px){
+    .pp{
+        font-size: 20px;
+    padding-top: 40px;
+    line-height: 36px;
+    }
+.video-cont{
+    height: 65vh;
+    width: 65vw;
+    
+}
+.mic{
+    width: 20px;
+}
+#section .message{
+    font-size: 20px;
+    
+}
+.left-head{
+    font-size: 55px;
+    line-height: 65px;
+   } 
+   .descriptionn{
+    font-size: 20px;
+    padding-top: 40px;
+    line-height: 36px;
+   }
+}
+
+@media(max-height: 700px){
+    .left-head{
+        font-size: 55px;
+        line-height: 65px;
+       }     
+}
+
+
+@media(max-width:767px){
+    .columnn h1{
+        margin-top: 100px!important;
+    }
+    .columnn p{
+        margin-bottom: 0px!important;
+    }
+   
+}
+
