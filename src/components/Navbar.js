@@ -18,7 +18,7 @@ function Navbar() {
       </div>
       {expanded && 
         <div className="h-[calc(100vh-6.25rem)] flex flex-col text-gray-400">
-          <div className="h-[13%] px-10 "><Link to='/'>Home</Link></div>
+          <div className="h-[13%] px-10 "><Link to='/FlintApp'>Home</Link></div>
           <div className="h-[13%] px-10 "><Link to='/about'>About us</Link></div>
           <div className="h-[13%] px-10 ">FAQ</div>
           <div className="h-[13%] px-10 ">Roadmap</div>
